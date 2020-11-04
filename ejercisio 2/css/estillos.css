@@ -1,0 +1,35 @@
+.jumbotron-fluid {
+
+    background: -webkit-linear-gradient(left, #41f497, #41dff4,);
+    background: -o-linear-gradient(left, #41f497, #41dff4, );
+    background: -moz-linear-gradient(left, #41f497, #41dff4, );
+    background: linear-gradient(left, #41f497, #41dff4, );
+    background: #41dff4;
+    background: -webkit-linear-gradient(left, #41f497, #41dff4,)
+}
+
+#titularNuevoRecordatorio {
+
+    color: #41def4;
+
+}
+
+#titular-tarea-pendiente {
+
+    color:  #41f497;
+
+}
+
+.recordatorio {
+
+border-radius: 5px;
+padding: 0.5em;
+border: 0.1rem solid #41f497;
+
+}
+
+#recordatorios {
+
+    cursor:pointer;
+
+}
